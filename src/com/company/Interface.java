@@ -1,6 +1,6 @@
 package com.company;
 
-// Пример работы со стандартной моделью таблицы JTable
+
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
