@@ -60,8 +60,8 @@ public class Interface extends JFrame {
 
 
         Insets margin = new Insets(20, 150, 20, 150);
-        JButton b = new JButton("Ручная очередь");
-        JButton v = new JButton("Встроенная очередь");
+        JButton b = new JButton("Собственная реализация");
+        JButton v = new JButton("Java реализация");
         b.setMargin(margin);
         gui.add(b);
         gui.add(v);
